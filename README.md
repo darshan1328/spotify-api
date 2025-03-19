@@ -30,7 +30,7 @@ Spotify Mood-Based Music Explorer is a web application that helps users discover
 
 ### **1. Clone the Repository**  
 ```
-git clone https://github.com/your-repo/spotify-api.git
+git clone https://github.com/darshan1328/spotify-api.git
 ```
 
 ### **2. Install Dependencies**  
