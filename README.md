@@ -87,6 +87,8 @@ npm run dev
 Contributions are welcome! If you’d like to improve the app, feel free to submit a pull request.  
 
 ---
+![Screenshot 2025-03-17 192631](https://github.com/user-attachments/assets/77e60c09-e0d4-431b-b572-2f04324baa36)
+
 
 
 
