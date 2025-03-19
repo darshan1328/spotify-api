@@ -1,8 +1,8 @@
 import React, { useState, useEffect } from "react";
 import { Music2, Search, ExternalLink, Loader2 } from "lucide-react";
 
-const CLIENT_ID = "ef0a9cb9168f4fe096540a79fb53ca1f";
-const CLIENT_SECRET = "7150991ef8f04a34817a0b63a3b740cd";
+const CLIENT_ID = "YOUR_CLIENT_ID";
+const CLIENT_SECRET = "YOUR_CLIENT_SECRET";
 
 const SpotifyMoodApp = () => {
   const [token, setToken] = useState("");
